@@ -23,7 +23,7 @@ driver.findElement(By.name("register")).click();
 driver.findElement(By.linkText("SIGN-OFF")).click();
 
 driver.findElement(By.name("userName")).sendKeys("Assignment@1");
-driver.findElement(By.name("password")).sendKeys("Test@1234");
+driver.findElement(By.name("password")).sendKeys("Test@1243");
 driver.findElement(By.name("login")).click();
 		
 		
